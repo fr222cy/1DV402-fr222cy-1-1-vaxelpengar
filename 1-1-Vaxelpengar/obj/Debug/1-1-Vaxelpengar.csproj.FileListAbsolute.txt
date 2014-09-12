@@ -1,0 +1,6 @@
+C:\Users\Filip\Desktop\Projekt i C#\1-1-Vaxelpengar\1-1-Vaxelpengar\bin\Debug\1-1-Vaxelpengar.exe.config
+C:\Users\Filip\Desktop\Projekt i C#\1-1-Vaxelpengar\1-1-Vaxelpengar\bin\Debug\1-1-Vaxelpengar.exe
+C:\Users\Filip\Desktop\Projekt i C#\1-1-Vaxelpengar\1-1-Vaxelpengar\bin\Debug\1-1-Vaxelpengar.pdb
+C:\Users\Filip\Desktop\Projekt i C#\1-1-Vaxelpengar\1-1-Vaxelpengar\obj\Debug\1-1-Vaxelpengar.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\Projekt i C#\1-1-Vaxelpengar\1-1-Vaxelpengar\obj\Debug\1-1-Vaxelpengar.exe
+C:\Users\Filip\Desktop\Projekt i C#\1-1-Vaxelpengar\1-1-Vaxelpengar\obj\Debug\1-1-Vaxelpengar.pdb
