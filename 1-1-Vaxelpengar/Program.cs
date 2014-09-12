@@ -32,7 +32,7 @@ namespace _1_1_Vaxelpengar
                     Console.Write("Ange totalsumma     : ");  
                     totalSum = double.Parse(Console.ReadLine()); //Totalsumman
 
-                    if (totalSum < 1)                                       //om värdet är mindre än 1...
+                    if (totalSum <= 1)                                       //om värdet är mindre elr = än 1...
                     {
                         Console.BackgroundColor = ConsoleColor.Red;
                         Console.ForegroundColor = ConsoleColor.Black;
